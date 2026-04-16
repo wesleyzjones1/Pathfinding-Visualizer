@@ -266,13 +266,7 @@ hr { display:none; }
   cursor:pointer;
 }
 #speed::-moz-range-track { background: var(--border); height:4px; border-radius:2px; border:none; }
-#speed-val {
-  min-width: 32px;
-  text-align: right;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: .74rem;
-  color: var(--text-secondary);
-}
+#speed-val { display:none; }
 
 /* ── Theme toggle switch ── */
 .theme-switch {

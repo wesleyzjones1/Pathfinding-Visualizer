@@ -7,7 +7,7 @@ Draw walls, place a start and end node, choose an algorithm, and watch it search
 ---
 
 ## Live Demo
-https://wesleyzjones1.github.io/Pathfinding-Visuliazer/
+https://wesleyzjones1.github.io/Pathfinding-Visualizer/
 ---
 
 ## Screenshots
